@@ -1,0 +1,3 @@
+com.ysc.spi.impl.EnglishHelloServiceImpl
+
+com.ysc.spi.impl.ChineseHelloServiceImpl
